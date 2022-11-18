@@ -1,0 +1,15 @@
+.faq__item_type_active {
+  box-shadow: 0 0 20px #50b4ef;
+  transition: 0.2s linear;
+}
+
+.faq__item_type_active:after {
+  content: "\2212";
+  transition: 0.2s linear;
+}
+
+.faq__item_type_active,
+.faq__item:hover {
+  background-color: #303030;
+  transition: 0.2s linear;
+}

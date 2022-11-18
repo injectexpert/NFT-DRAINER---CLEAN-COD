@@ -1,0 +1,12 @@
+.footer__info {
+    color: white;
+    font-weight: 400;
+    font-size: 23px;
+    text-align: center;
+  }
+
+@media screen and (max-width: 1836px){
+  .footer__info{
+    width: 400px;
+  }
+}

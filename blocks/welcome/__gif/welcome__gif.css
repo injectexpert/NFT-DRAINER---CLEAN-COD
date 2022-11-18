@@ -1,0 +1,15 @@
+.welcome__gif {
+    box-shadow: 10px 0 15px #242424;
+    margin: 0;
+    padding: 0;
+    height: 30%;
+    width: 30%;
+  }
+
+  @media screen and (max-width: 1220px){
+    .welcome__gif{
+      margin: 100px auto 0;
+      width: 80%;
+      height: 80%;
+    }
+  }

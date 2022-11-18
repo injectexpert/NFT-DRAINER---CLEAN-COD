@@ -1,0 +1,8 @@
+.welcome__full-price {
+    margin: 0 0 0 30px;
+    min-height: 35px;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+  }

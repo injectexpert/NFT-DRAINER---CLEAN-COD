@@ -1,0 +1,11 @@
+.footer__social-link {
+    width: 55px;
+    height: 55px;
+    margin: 0 0 0 15px;
+    padding: 0;
+    transition: 0.2s linear;
+  }
+  
+  .footer__social-link:hover {
+    transform: scale(1.1);
+  }

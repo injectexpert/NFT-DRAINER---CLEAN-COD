@@ -1,0 +1,13 @@
+.welcome {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 0;
+    padding: 0;
+  }
+
+  @media screen and (max-width: 1220px){
+    .welcome{
+      flex-direction: column;
+    }
+  }

@@ -1,0 +1,13 @@
+.welcome__main-container {
+    display: flex;
+    flex-direction: column;
+    width: 52%;
+    margin: 0;
+    padding: 0;
+  }
+
+  @media screen and (max-width: 1836px){
+    .welcome__main-container{
+      width: 100%;
+    }
+  }

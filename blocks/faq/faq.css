@@ -1,0 +1,8 @@
+.faq {
+    margin: 150px 0 0;
+    padding: 0;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }

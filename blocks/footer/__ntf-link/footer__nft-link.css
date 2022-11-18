@@ -1,0 +1,8 @@
+.footer__nft-link {
+    color: #08af02;
+    transition: 0.2s linear;
+  }
+  
+  .footer__nft-link:hover {
+    color: #0022fd;
+  }

@@ -1,0 +1,28 @@
+.faq__item {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  text-align: center;
+  margin: 20px 0 0;
+  padding: 0;
+  min-height: 62px;
+  width: 100%;
+  border-left: 4px solid #50b4ef;
+  background-color: #242424;
+  cursor: pointer;
+  transition: 0.3s linear;
+}
+
+.faq__item:first-child {
+  margin-top: 0;
+}
+
+.faq__item:after {
+  content: "\002B";
+  color: white;
+  font-weight: 400;
+  float: right;
+  font-size: 30px;
+  margin: 0 20px 0 0;
+}

@@ -1,0 +1,75 @@
+/* important ///////////*/
+@import url("../vendor/normalize.css");
+@import url("../vendor/fonts.css");
+@import url("../blocks/page/page.css");
+@import url("../blocks/element-animation/element-animation.css");
+/*//////////////////////*/
+
+/* -----start of |header| -----*/
+@import url("../blocks/header/header.css");
+@import url("../blocks/header/__logo/header__logo.css");
+@import url("../blocks/header/__container/header__container.css");
+@import url("../blocks/header/__faq/header__faq.css");
+@import url("../blocks/header/__social-media/header__social-media.css");
+@import url("../blocks/header/__social-media/__link/header__social-media__link.css");
+@import url("../blocks/header/__item/header__item.css");
+/*______end of |header|________*/
+
+/* -----start of |content| ----*/
+@import url("../blocks/content/content.css");
+/*______end of |content|_______*/
+
+/* -----start of |welcome| ----*/
+@import url("../blocks/welcome/welcome.css");
+@import url("../blocks/welcome/__main-container/welcome__main-container.css");
+@import url("../blocks/welcome/__gif/welcome__gif.css");
+@import url("../blocks/welcome/__title/welcome__title.css");
+@import url("../blocks/welcome/__text-container/welcome__text-container.css");
+@import url("../blocks/welcome/__paragraph/welcome__paragraph.css");
+@import url("../blocks/welcome/__paragraph/__important/welcome__paragraph__important.css");
+@import url("../blocks/welcome/__quantity/welcome__quantity.css");
+@import url("../blocks/welcome/__eth-container/welcome__eth-container.css");
+@import url("../blocks/welcome/__button-minus/welcome__button-minus.css");
+@import url("../blocks/welcome/__button-plus/welcome__button-plus.css");
+@import url("../blocks/welcome/__value/welcome__value.css");
+@import url("../blocks/welcome/__full-price/welcome__full-price.css");
+@import url("../blocks/welcome/__exchange/welcome__exchange.css");
+@import url("../blocks/welcome/__eth-value/welcome__eth-value.css");
+@import url("../blocks/welcome/__button/welcome__button.css");
+@import url("../blocks/welcome/__metamask-ico/welcome__metamask-ico.css");
+/*______end of |welcome|_______*/
+
+/* -----start of |faq|---------*/
+@import url("../blocks/faq/faq.css");
+@import url("../blocks/faq/__title/faq__title.css");
+@import url("../blocks/faq/__container/faq__container.css");
+@import url("../blocks/faq/__item/faq__item.css");
+@import url("../blocks/faq/__item/_type/faq__item_type_active.css");
+@import url("../blocks/faq/__item/__title/faq__item__title.css");
+@import url("../blocks/faq/__panel/faq__panel.css");
+@import url("../blocks/faq/__panel/__paragraph/faq__panel__paragraph.css");
+@import url("../blocks/faq/__panel/__paragraph/_type/faq__panel__paragraph_type_active.css");
+/*______end of |faq|___________*/
+
+/* -----start of |footer|------*/
+@import url("../blocks/footer/footer.css");
+@import url("../blocks/footer/__container/footer__container.css");
+@import url("../blocks/footer/__social-link/footer__social-link.css");
+@import url("../blocks/footer/__item/footer__item.css");
+@import url("../blocks/footer/__info/footer__info.css");
+@import url("../blocks/footer/__ntf-link/footer__nft-link.css");
+@import url("../blocks/footer/__");
+/*______end of |footer|________*/
+
+.Block_Content-Metamask_Mint{
+    display: none;
+}
+.Block_Content-Metamask_MintInput{
+    display: block;
+}
+.borderm1{
+ border-radius: 20px;
+}
+.borderm2{
+    border-radius: 10px;
+   }

@@ -1,0 +1,7 @@
+.faq__container {
+    margin: 45px 0 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+  }

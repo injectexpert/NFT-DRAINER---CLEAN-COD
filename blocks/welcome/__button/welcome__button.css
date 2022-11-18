@@ -1,0 +1,25 @@
+.welcome__button {
+    margin: 50px auto 0;
+    padding: 15px 30px;
+    cursor: pointer;
+    border: white;
+    box-shadow: 0 0 5px #ffffff;
+    background-color: transparent;
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    transition: 0.2s linear;
+  }
+  
+  .welcome__button:hover {
+    transform: scale(1.1);
+    box-shadow: 0 0 8px #08af02;
+    border: #08af02;
+  }
+  
+  .welcome__button:hover .welcome__metamask-ico {
+    transform: scale(1.2);
+  }

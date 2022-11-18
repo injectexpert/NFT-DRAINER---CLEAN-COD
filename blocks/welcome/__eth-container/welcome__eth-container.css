@@ -1,0 +1,11 @@
+.welcome__eth-container {
+    display: flex;
+    flex-direction: row;
+    width: 60%;
+    max-width: 60%;
+    margin: 25px auto 0;
+    align-items: center;
+    min-height: 40px;
+    justify-content: center;
+    padding: 0;
+  }

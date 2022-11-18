@@ -1,0 +1,20 @@
+.welcome__title {
+  color: white;
+  font-size: 75px;
+  font-weight: 600;
+  margin: 0;
+  padding: 0;
+}
+
+@media screen and (max-width: 1836px){
+  .welcome__title{
+    font-size: 65px;
+  }
+}
+
+@media screen and (max-width: 1220px){
+  .welcome__title{
+    font-size: 75px;
+    
+  }
+}
